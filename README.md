@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/caleb_jephunneh" target="blank"><img src="https://img.shields.io/twitter/follow/caleb_jephunneh?logo=twitter&style=for-the-badge" alt="caleb_jephunneh" /></a> </p>
 
+- I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
+
 - 🌱 I’m currently learning **backend**
 
 - 👯 I’m looking to collaborate on **software development**
