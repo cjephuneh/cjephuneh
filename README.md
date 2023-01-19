@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **software development**
 
-- 🤝 I’m looking for help with **any software job**
+- 🤝 I’m looking for help with **any software job any where**
 
 - 👨‍💻 All of my projects are available at [jephunneh.netifly.com](jephunneh.netifly.com)
 
