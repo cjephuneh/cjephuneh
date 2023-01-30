@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caleb Jephuneh</h1>
+<h1 align="center">Hi 👋, I'm Caleb Jephunneh</h1>
 <h3 align="center">A passionate Fullstack Developer & a UI/UX designer from Kenya</h3>
 <img align='right' width='400' scr='https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif' alt='coding'>
 
