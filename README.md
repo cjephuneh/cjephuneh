@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@calebjephuneh](https://medium.com/@calebjephuneh)
 
-- 💬 Ask me about **react, reactnative**
+- 💬 Ask me about **react, reactnative**,django**
 
 - 📫 How to reach me **calebjephuneh@gmail.com**
 
