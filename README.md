@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **software development**
 
-- 🤝 I’m looking for help with **any software job any where **
+- 🤝 I’m looking for help with **any software job any where**
 
 - 👨‍💻 All of my projects are available at [jephunneh.netifly.com](jephunneh.netifly.com)
 
 - 📝 I regularly write articles on [https://medium.com/@calebjephuneh](https://medium.com/@calebjephuneh)
 
-- 💬 Ask me about **react, reactnative**,django**
+- 💬 Ask me about **react, reactnative ,django**
 
 - 📫 How to reach me **calebjephuneh@gmail.com**
 
