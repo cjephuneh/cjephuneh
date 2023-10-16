@@ -11,7 +11,7 @@
 
 - I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **software development**
 
