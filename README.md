@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Caleb Jephunneh</h1>
 <h3 align="center">A passionate Fullstack Developer from Kenya</h3>
 <a href="https://wakatime.com/@d20134a0-3220-49c2-beb2-f85ccb020c60"><img src="https://wakatime.com/badge/user/d20134a0-3220-49c2-beb2-f85ccb020c60.svg" alt="Total time coded since May 6 2023" /></a>
-<img align='right' width='400' scr='https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif' alt='coding'>
+<img 
+  align='right' 
+  width='400' 
+  scr='https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif' 
+  alt='coding'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjephunneh&label=Profile%20views&color=0e75b6&style=flat" alt="cjephunneh" /> </p>
 
