@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/code4jeph" target="blank"><img src="https://img.shields.io/twitter/follow/code4jeph?logo=twitter&style=for-the-badge" alt="caleb_jephunneh" /></a> </p>
 
-- I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
+-Software engineer with 4+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
 
 - 🌱 I’m currently learning **Data Engineering**
 
