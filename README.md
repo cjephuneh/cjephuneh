@@ -6,6 +6,7 @@
   width='400' 
   scr='https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif' 
   alt='coding' />
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjephunneh&label=Profile%20views&color=0e75b6&style=flat" alt="cjephunneh" /> </p>
 
