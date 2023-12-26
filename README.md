@@ -7,7 +7,6 @@
   scr='https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif' 
   alt='coding' />
   
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjephunneh&label=Profile%20views&color=0e75b6&style=flat" alt="cjephunneh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjephuneh" alt="cjephunneh" /></a> </p>
