@@ -20,7 +20,7 @@ Software engineer with 4+ years of experience. Worked for innovative startups, l
 
 - 👯 I’m looking to collaborate on **software development**
 
-- 🤝 I’m looking for help with **any software job any where**
+- 🤝 I’m looking for help with **Investors**
 
 - 👨‍💻 All of my projects are available at [jephunneh.netifly.com](jephunneh.netifly.com)
 
