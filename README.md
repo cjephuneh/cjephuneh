@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Caleb Jephunneh</h1>
 <h3 align="center">A Software Engineer and Startup Founder</h3>
+
 <a href="https://wakatime.com/@d20134a0-3220-49c2-beb2-f85ccb020c60"><img src="https://wakatime.com/badge/user/d20134a0-3220-49c2-beb2-f85ccb020c60.svg" alt="Total time coded since May 6 2023" /></a>
 <img 
   align='right' 
