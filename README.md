@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Caleb Jephunneh</h1>
 <h3 align="center">A Software Engineer and Startup Founder</h3>
 <h3 align="center">47x hackathons 25 Wins</h3>
