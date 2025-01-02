@@ -15,7 +15,7 @@ Software engineer with 4+ years of experience. Worked for innovative startups, l
 - 👯 I’m looking to collaborate on **software development**
 
 - 🤝 I’m looking for help with **Investors**
-- 👨‍💻 All of my projects are available at [jephunneh.netifly.com](bricklabsai.org)
+- 👨‍💻 All of my projects are available at [bricklabsai.org](bricklabsai.org)
 - 📝 I regularly write articles on [https://medium.com/@calebjephuneh](https://medium.com/@calebjephuneh)
 - 💬 Ask me about **react, reactnative ,django**
 - 📫 How to reach me **calebjephuneh@gmail.com**
