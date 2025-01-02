@@ -1,8 +1,6 @@
 # Hello! I'm Jephunneh -  👋
 Last update: 05/15/2024
 
-![](https://github.com/IdkwhatImD0ing/stats/blob/master/generated/overview.svg)
-![](https://github.com/IdkwhatImD0ing/stats/blob/master/generated/languages.svg)
 
 ## ⚡ Languages and Frameworks
 <table>
