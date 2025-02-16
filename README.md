@@ -2,6 +2,7 @@
 Last update: 01/05/2025
 
 
+
 ## ⚡ Languages and Frameworks
 <table>
   <tr>
